@@ -1,0 +1,61 @@
+.body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.bg{
+    background-color:azure;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+
+.joycon{
+    margin-top: 10px;
+    padding: 8px 12px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 5px;
+}
+.joycon button{
+    font-size: 16px;
+    background-color: aliceblue;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+    padding: 20px;
+}
+.ab{
+    margin-top: 10px;
+    padding: 8px 12px;
+    background-color:bisque;
+    color: black;
+    border-radius: 5px;
+    justify-content: center;
+    justify-items: center;
+}
+.ab button{
+    font-size: 16px;
+    background-color: aliceblue;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.text{
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    margin-block-start: 1cm;
+    margin-block-end: 1cm;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
